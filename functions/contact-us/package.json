@@ -1,0 +1,10 @@
+{
+  "name": "contact-us",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.370.0",
+    "@hubspot/api-client": "^9.0.0"
+  }
+}
